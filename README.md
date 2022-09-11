@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?Coverli=all-smile&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Coverli=all-smile&layout=compact&theme=tokyonight)
+
 <!--
 **Coverli/Coverli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
