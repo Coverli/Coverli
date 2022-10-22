@@ -11,7 +11,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | C 
+- 💻 &nbsp; Java | C | Python
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | JQuery
 - 🛢 &nbsp; MySQL | Redis
 - 🔧 &nbsp; InteliJ IDEA | Visual Studio code | Eclipse | Git
